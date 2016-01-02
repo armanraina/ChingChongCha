@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChingChongCha</string>
+
+    <string name="welcome">Choose your weapon!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="fight_button">Fight!</string>
+    <string name="lose_toast">You lose!</string>
+    <string name="win_toast">You win!</string>
+    <string name="computer_choice">Computer chose </string>
+
+</resources>
