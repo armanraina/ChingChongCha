@@ -1,4 +1,4 @@
-# ChingChongCha
+# Rock Paper Scissors
 
 # Known bugs:
 Instance state NOT saved, so game might reset upon rotation
